@@ -86,8 +86,8 @@ DATABASES = {
         'NAME': 'gestor_recursos',
         'USER': 'admin',
         'PASSWORD': 'admin',
-        'HOST': 'db',
-        'PORT': '5432',
+        'HOST': '127.0.0.1',
+        'PORT': '5433',
     }
 }
 
